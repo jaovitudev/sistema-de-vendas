@@ -1,25 +1,25 @@
-# 🛍️ Sistema de Vendas
+#  Sistema de Vendas
 
-> 📊 **Registre vendas. Acompanhe resultados. Visualize seus dados.**
+>  **Registre vendas. Acompanhe resultados. Visualize seus dados.**
 >
 > Aplicação web simples, feita com Python e Streamlit, para cadastrar vendas em um arquivo CSV e acompanhar o faturamento em um painel interativo.
 
-## ✨ Recursos
+##  Recursos
 
-- 📝 Cadastro de vendas com data, vendedor, produto, quantidade e valor.
-- 💾 Armazenamento dos registros em `vendas.csv`.
-- 📋 Tabela com as vendas cadastradas.
-- 💰 Indicador de faturamento total.
-- 📊 Gráfico de valores por vendedor e produto.
-- 🥧 Gráfico de participação dos produtos nas vendas.
+-  Cadastro de vendas com data, vendedor, produto, quantidade e valor.
+-  Armazenamento dos registros em `vendas.csv`.
+-  Tabela com as vendas cadastradas.
+-  Indicador de faturamento total.
+-  Gráfico de valores por vendedor e produto.
+-  Gráfico de participação dos produtos nas vendas.
 
 ## 🧰 Tecnologias
 
-- 🐍 Python
-- 🎈 [Streamlit](https://streamlit.io/) — interface web
-- 🐼 [Pandas](https://pandas.pydata.org/) — leitura e organização dos dados
-- 📈 [Plotly Express](https://plotly.com/python/plotly-express/) — gráficos interativos
-- 📄 CSV — armazenamento local dos registros
+- Python
+- [Streamlit](https://streamlit.io/) — interface web
+- [Pandas](https://pandas.pydata.org/) — leitura e organização dos dados
+- [Plotly Express](https://plotly.com/python/plotly-express/) — gráficos interativos
+- CSV — armazenamento local dos registros
 
 ## 🚀 Como executar
 
