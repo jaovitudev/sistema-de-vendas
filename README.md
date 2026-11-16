@@ -13,7 +13,7 @@
 -  Gráfico de valores por vendedor e produto.
 -  Gráfico de participação dos produtos nas vendas.
 
-## 🧰 Tecnologias
+## Tecnologias
 
 - Python
 - [Streamlit](https://streamlit.io/) — interface web
@@ -21,7 +21,7 @@
 - [Plotly Express](https://plotly.com/python/plotly-express/) — gráficos interativos
 - CSV — armazenamento local dos registros
 
-## 🚀 Como executar
+## Como executar
 
 ### 1. Pré-requisitos
 
@@ -41,13 +41,13 @@ python -m streamlit run main.py
 
 O Streamlit exibirá um endereço local no terminal, normalmente [http://localhost:8501](http://localhost:8501). Abra esse endereço no navegador.
 
-## 🧾 Como usar
+## Como usar
 
 1. Preencha os campos na barra lateral: data, vendedor, produto, quantidade e valor.
 2. Clique em **Cadastrar venda**.
 3. Consulte os registros na tabela e os indicadores e gráficos no painel.
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 sistema-de-vendas.py/
@@ -57,16 +57,16 @@ sistema-de-vendas.py/
 └── README.md         # Documentação do projeto
 ```
 
-## 💡 Observações
+## Observações
 
 - O arquivo `vendas.csv` deve permanecer junto com `main.py`.
 - Os registros ficam salvos localmente no CSV; faça uma cópia de segurança para preservar os dados.
 - Para começar com uma planilha vazia, mantenha os cabeçalhos `data,vendedor,produto,quantidade,valor`.
 
-## 👤 Autor
+## 🧑‍💻 Autor
 
 Desenvolvido por **jaovitudev**.
 
 ---
 
-⭐ Se este projeto foi útil, deixe uma estrela no repositório!
+Se este projeto foi útil, deixe uma estrela no repositório!
